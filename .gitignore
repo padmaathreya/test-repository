@@ -1,0 +1,5 @@
+#patterns which will be ignored, when added to git
+# are mentione her
+.DS_Store
+__pycache__/
+*.pyc
